@@ -1,45 +1,33 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Exercícios Prgramação Dinâmica
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 16<br>
+**Conteúdo da Disciplina**: PD<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 19/0086131  |  Davi Ranieri Fonsêca |
+| 19/0094478  |  Pedro Henrique Nogueira Bragança |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Resolução de exercícios do assunto Programação Dinâmica do [leetcode](https://leetcode.com/)
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+### Exercicio 1 (Difícil) - [Number of Pairs Satisfying Inequality](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/) - [CÓDIGO](NumberPairs/NumberPairs.js)
+
+![image](https://github.com/projeto-de-algoritmos/DividirConquistar_Exercicios_Dupla16/assets/57445188/e42c7e6f-0e88-46dd-be43-24e9d2b75fa5)
+
+### Exercicio 2 (Médio) - 
+
+### Exercício 3 (Médio) - 
+
+### Exercício 4 (Médio) - 
+
+### Exercício 5 (Médio) - 
+
+### Exercício 6 (Difícil) - 
+
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
-
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
-
-
+**Linguagem**: JavaScript<br>
+Para testar os códigos, clone o repositório e, com o auxílio da descrição de cada um dos problemas no link do leetcode
