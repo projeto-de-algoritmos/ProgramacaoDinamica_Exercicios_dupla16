@@ -22,7 +22,8 @@ Resolução de exercícios do assunto Programação Dinâmica do [leetcode](http
 
 ### Exercício 3 (Médio) - 
 
-### Exercício 4 (Médio) - 
+### Exercício 4 (Médio) - [House Robber](https://leetcode.com/problems/house-robber/description/) - [CÓDIGO](HouseRobber/HouseRobber.java)
+![image](HouseRobber/HouseRobber.png)
 
 ### Exercício 5 (Médio) - [Network Delay Time](https://leetcode.com/problems/network-delay-time/description/) - [CÓDIGO](NetworkDelayTime/NetworkDelayTime.java)
 ![image](NetworkDelayTime/NetworkDelayTime.png)
@@ -32,5 +33,5 @@ Resolução de exercícios do assunto Programação Dinâmica do [leetcode](http
 
 
 ## Instalação 
-**Linguagem**: JavaScript<br>
+**Linguagem**: JavaScript / Java<br>
 Para testar os códigos, clone o repositório e, com o auxílio da descrição de cada um dos problemas no link do leetcode
