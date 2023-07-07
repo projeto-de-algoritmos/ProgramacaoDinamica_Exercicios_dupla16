@@ -24,9 +24,11 @@ Resolução de exercícios do assunto Programação Dinâmica do [leetcode](http
 
 ### Exercício 4 (Médio) - 
 
-### Exercício 5 (Médio) - 
+### Exercício 5 (Médio) - [Network Delay Time](https://leetcode.com/problems/network-delay-time/description/) - [CÓDIGO](NetworkDelayTime/NetworkDelayTime.java)
+![image](NetworkDelayTime/NetworkDelayTime.png)
 
-### Exercício 6 (Difícil) - 
+### Exercício 6 (Difícil) - [Minimum Cost to Reach Destination in Time](https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/description/) - [CÓDIGO](CheapestFlightsWithinKStops/CheapestFlightsWithinKStops.java)
+![image](CheapestFlightsWithinKStops/CheapestFlightsWithinKStops.png)
 
 
 ## Instalação 
