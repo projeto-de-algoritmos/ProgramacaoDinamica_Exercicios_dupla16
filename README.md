@@ -13,9 +13,10 @@
 Resolução de exercícios do assunto Programação Dinâmica do [leetcode](https://leetcode.com/)
 
 ## Screenshots
-### Exercicio 1 (Difícil) - [Number of Pairs Satisfying Inequality](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/) - [CÓDIGO](NumberPairs/NumberPairs.js)
+### Exercicio 1 (Difícil) - [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/) - [CÓDIGO](NumberPairs/NumberPairs.js)
 
-![image](https://github.com/projeto-de-algoritmos/DividirConquistar_Exercicios_Dupla16/assets/57445188/e42c7e6f-0e88-46dd-be43-24e9d2b75fa5)
+![image](https://github.com/projeto-de-algoritmos/ProgramacaoDinamica_Exercicios_dupla16/assets/57445188/cbcabaf3-3183-4da8-88aa-11fed29718b1)
+
 
 ### Exercicio 2 (Médio) - 
 
