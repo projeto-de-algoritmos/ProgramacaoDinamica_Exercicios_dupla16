@@ -13,7 +13,7 @@
 Resolução de exercícios do assunto Programação Dinâmica do [leetcode](https://leetcode.com/)
 
 ## Screenshots
-### Exercicio 1 (Difícil) - [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/) - [CÓDIGO](NumberPairs/NumberPairs.js)
+### Exercicio 1 (Difícil) - [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/) - [CÓDIGO](MaximalRectangle/MaximalRectangle.js)
 
 ![image](https://github.com/projeto-de-algoritmos/ProgramacaoDinamica_Exercicios_dupla16/assets/57445188/cbcabaf3-3183-4da8-88aa-11fed29718b1)
 
