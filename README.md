@@ -18,7 +18,10 @@ Resolução de exercícios do assunto Programação Dinâmica do [leetcode](http
 ![image](https://github.com/projeto-de-algoritmos/ProgramacaoDinamica_Exercicios_dupla16/assets/57445188/cbcabaf3-3183-4da8-88aa-11fed29718b1)
 
 
-### Exercicio 2 (Médio) - 
+### Exercicio 2 (Médio) - [WordBreak](https://leetcode.com/problems/word-break/) - [CÓDIGO](WordBreak/WordBreak.js)
+
+![image](https://github.com/projeto-de-algoritmos/ProgramacaoDinamica_Exercicios_dupla16/assets/57445188/07014c85-a683-42a5-bc81-c25dd81582d5)
+
 
 ### Exercício 3 (Médio) - 
 
