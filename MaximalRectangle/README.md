@@ -2,7 +2,7 @@ Dada uma matriz binária de tamanho rows x cols preenchida com 0's e 1's, encont
 
 Exemplo 1:
 
-Input: matrix = 
+Input: matrix = <br>
 [["1","0","1","0","0"], <br>
 ["1","0","1","1","1"], <br>
 ["1","1","1","1","1"], <br>
