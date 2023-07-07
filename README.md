@@ -23,7 +23,10 @@ Resolução de exercícios do assunto Programação Dinâmica do [leetcode](http
 ![image](https://github.com/projeto-de-algoritmos/ProgramacaoDinamica_Exercicios_dupla16/assets/57445188/07014c85-a683-42a5-bc81-c25dd81582d5)
 
 
-### Exercício 3 (Médio) - 
+### Exercício 3 (Médio) - [LongestIncreasingSubsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) - [CÓDIGO](LongestSubsequence/LongestSubsequence.js)
+
+![image](https://github.com/projeto-de-algoritmos/ProgramacaoDinamica_Exercicios_dupla16/assets/57445188/c6526fa6-2029-42ce-87ae-6bb3c5f4ff07)
+
 
 ### Exercício 4 (Médio) - [House Robber](https://leetcode.com/problems/house-robber/description/) - [CÓDIGO](HouseRobber/HouseRobber.java)
 ![image](HouseRobber/HouseRobber.png)
